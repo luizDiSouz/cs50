@@ -1,2 +1,2 @@
-# cs50_C
-Breve introdução a linguagem de programação 'C', conduzida pelo curso CS50
+# cs50
+Breve introdução a linguagem de programação conduzida pelo curso CS50.
